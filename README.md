@@ -1,91 +1,85 @@
-<!-- Animated Header -->
+<!-- AI Research Themed Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ujjwal%20|%20Web%20Developer%20%26%20ML%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ujjwal%20|%20AI%20Research%20Engineer&fontSize=40&fontColor=00F5FF&animation=fadeIn" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Data+Science+Explorer;Samsung+PRISM+R%26D+Research+Intern;Competitive+Programmer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=24&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Research;Machine+Learning+Engineer;Deep+Learning+Explorer;Data+Science+Innovator;Samsung+PRISM+R%26D+Research+Intern" />
 </p>
-
----
-
-## 👋 Hi, I'm Ujjwal
-
-💡 Passionate about building scalable web applications and intelligent ML systems.  
-🚀 Turning ideas into real-world technical solutions.  
-📊 Exploring the intersection of Web Development, AI & Data Science.
-
----
-
-## 🏢 Experience
-
-### 🔬 Samsung PRISM – R&D Research Intern  
-- Working on advanced research-oriented technical solutions  
-- Building scalable systems & experimenting with intelligent models  
-- Contributing to innovation-driven development projects  
 
 ---
 
 ## 🧠 About Me
 
-- 🌐 Full Stack Web Developer  
-- 🤖 Machine Learning Enthusiast  
-- 📊 Data Science Explorer  
-- 🏆 Strong in DSA & Problem Solving  
-- 🔍 Interested in AI, Deep Learning & System Design  
+I am deeply interested in building intelligent systems that learn, adapt, and scale.
+
+My focus lies at the intersection of:
+
+- 🔬 Artificial Intelligence Research  
+- 🤖 Machine Learning & Deep Learning  
+- 📊 Data Science & Predictive Modeling  
+- 🏗️ Scalable AI Systems  
+- 🧪 Research-driven experimentation  
+
+Currently working as:
+
+### 🔬 Samsung PRISM – R&D Research Intern
+- Developing research-oriented AI solutions  
+- Working on experimental model optimization  
+- Exploring real-world ML deployment pipelines  
 
 ---
 
-## 🛠️ Tech Stack
+## 🔬 Research & Technical Stack
 
-### 🌍 Web Development
+### 🧠 AI / ML
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
 </p>
 
-### 🤖 Machine Learning & Data Science
+### 📊 Data Science
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,matplotlib,seaborn" />
+<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn" />
 </p>
 
-### 💻 Programming & Tools
+### 🖥 Systems & Engineering
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,git,github,docker,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,cpp,java" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Research Metrics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=UJJWAL2282&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=UJJWAL2282&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=UJJWAL2282&show_icons=true&theme=midnight-purple&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=UJJWAL2282&theme=midnight-purple" />
 </p>
 
 ---
 
-## 📈 Most Used Languages
+## 📊 Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UJJWAL2282&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UJJWAL2282&layout=compact&theme=midnight-purple" />
 </p>
 
 ---
 
-## 🚀 Featured Interests
+## 🧪 Research Interests
 
-- 🔹 Intelligent Web Applications  
-- 🔹 Real-time ML Systems  
-- 🔹 AI-powered Dashboards  
-- 🔹 Backend System Architecture  
-- 🔹 Data-driven Decision Systems  
+- Neural Network Optimization  
+- Real-time Anomaly Detection  
+- Large Scale Model Deployment  
+- AI for System Intelligence  
+- Applied Machine Learning in Production  
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
-<p align="left">
+<p>
 <a href="https://github.com/UJJWAL2282">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
@@ -96,7 +90,7 @@
 
 ---
 
-<!-- Footer Wave -->
+<!-- AI Lab Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=100&section=footer"/>
 </p>
