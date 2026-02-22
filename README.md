@@ -1,71 +1,62 @@
 <!-- ===================================================== -->
-<!--                🔥 UJJWAL PREMIUM README              -->
+<!--                  🚀 UJJWAL 2.0 PROFILE               -->
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Ujjwal Banner" width="100%" />
+  <img src="./assets/banner.png" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Ujjwal;MERN+Stack+Developer;Machine+Learning+%26+Data+Science+Enthusiast;Samsung+R%26D+Research+Intern;Building+Scalable+AI+Systems+🚀" />
+  <span style="color:#00F7FF;">Hi 👋 I'm Ujjwal</span>
 </h1>
 
+<h3 align="center">
+  MERN Stack Developer • ML & Data Science Enthusiast • Samsung R&D Research Intern
+</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UJJWAL2282&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;Developing+AI+Driven+Systems;Researching+Next+Gen+Technologies;Future+Product+Engineer+🚀" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 🧠 About Me
 
-```diff
-+ MERN Stack Developer
-+ Machine Learning & Data Science Enthusiast
-+ Samsung R&D Research Intern (PRISM Program)
-+ 3rd Year Computer Science Student
-+ Passionate about AI, Research & Scalable Backend Systems
-+ Preparing for Top Product-Based Companies
-```
+> 🔬 Samsung R&D Research Intern (PRISM)  
+> 💻 MERN Stack Developer  
+> 🤖 Machine Learning & Data Science Enthusiast  
+> 🎓 3rd Year Computer Science Student  
+> 🚀 Preparing for Top Product-Based Companies  
 
-📧 Email: ujjwal2282@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/ujjwal2282/  
-💻 GitHub: https://github.com/UJJWAL2282  
+📧 **ujjwal2282@gmail.com**  
+🔗 **linkedin.com/in/ujjwal2282**  
+💻 **github.com/UJJWAL2282**
 
 ---
 
-# 🧠 Tech Stack
+## ⚙️ Core Tech
 
-## 🌐 MERN Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-</p>
+### 🌐 Web Development
+`MongoDB` • `Express` • `React` • `Node.js` • `REST APIs` • `JWT`
 
-## 🤖 Machine Learning & Data Science
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy" />
-</p>
+### 🤖 AI & Data Science
+`Python` • `NumPy` • `Pandas` • `Scikit-Learn` • `TensorFlow` • `Deep Learning`
 
-## ⚙️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,aws,firebase,postman" />
-</p>
+### 🛠 Tools
+`Git` • `Linux` • `Docker` • `Firebase` • `Postman`
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UJJWAL2282&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UJJWAL2282&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UJJWAL2282&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UJJWAL2282&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UJJWAL2282&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=UJJWAL2282&theme=react-dark&hide_border=true&area=true" />
@@ -73,33 +64,23 @@
 
 ---
 
-# 🎯 Current Focus
+## 🌟 Featured Projects
 
-- 🔥 Building scalable MERN applications  
-- 🤖 Developing real-time ML systems  
-- 📊 Data-driven dashboards  
-- 🧠 Strengthening DSA & System Design  
-- 🔬 Research & innovation at Samsung R&D  
+### 🏥 AI Health Monitoring Dashboard  
+Real-time anomaly detection with ML + Live visualization.
 
----
+### 🛒 MERN E-Commerce Platform  
+Authentication • Secure APIs • Payment Integration • Scalable Backend
 
-# 🌟 Featured Projects
+### 📡 Network Traffic Analyzer  
+ML-based predictive monitoring & anomaly alerting.
 
-### 🏥 AI Health Monitoring Dashboard
-Real-time anomaly detection with ML integration and interactive visualization.
-
-### 🛒 MERN E-Commerce Platform
-Authentication, REST APIs, payment integration, optimized backend.
-
-### 📡 Network Traffic Analyzer
-Machine Learning-based predictive monitoring & alert system.
-
-### 🎓 Smart Placement Portal
-Automated student-job matching platform using ranking algorithms.
+### 🎓 Smart Placement Portal  
+Automated student-job matching using ranking algorithms.
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=UJJWAL2282&theme=algolia&no-frame=true&row=1&column=6" />
@@ -107,17 +88,17 @@ Automated student-job matching platform using ranking algorithms.
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ujjwal2282/">
-    <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
   </a>
   <a href="mailto:ujjwal2282@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
   </a>
   <a href="https://github.com/UJJWAL2282">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00F7FF"/>
   </a>
 </p>
 
@@ -129,6 +110,6 @@ Automated student-job matching platform using ranking algorithms.
 
 ---
 
-<h3 align="center">
-✨ Code • Build • Research • Innovate ✨
-</h3>
+<h2 align="center">
+⚡ Code. Research. Build. Scale. ⚡
+</h2>
