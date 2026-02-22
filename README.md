@@ -1,129 +1,134 @@
-![Logo](https://github.com/UJJWAL2282/UJJWAL2282/blob/main/banner.png)
-
-<h1 align="center">Hi 👋, I'm Ujjwal</h1>
-<h3 align="center">MERN Stack Developer | ML & Data Science Enthusiast | Samsung R&D Research Intern 🇮🇳</h3>
-
-<img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"/>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=UJJWAL2282&label=Profile%20views&color=0e75b6&style=flat" alt="UJJWAL2282" /> 
-</p>
-
----
-
-### 🚀 About Me:
-
-- 💻 Passionate **MERN Stack Developer**
-- 🤖 Exploring **Machine Learning & Data Science**
-- 🔬 Currently working as **Samsung R&D Research Intern (PRISM Program)**
-- 📚 Preparing for top tech roles in MNCs
-- 🌱 Continuously learning advanced **DSA, System Design & AI**
-- 📫 Reach me at: **ujjwal2282@gmail.com**
-- ⚡ Fun fact: I love solving complex problems with clean code!
-
----
-
-### 🔗 Connect with me:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/ujjwal2282/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://github.com/UJJWAL2282" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30" width="40" />
-</a>
-</p>
-
----
-
-### 🛠️ Languages and Tools:
-
-<p align="left"> 
-
-<!-- MERN -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-
-<!-- Programming -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-<!-- Data Science -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-
-<!-- Tools -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-
-</p>
-
----
-
-### 🔥 GitHub Stats:
+<!-- ===================================================== -->
+<!--                🔥 UJJWAL PREMIUM README              -->
+<!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UJJWAL2282&theme=dark" />
+  <img src="./assets/banner.png" alt="Ujjwal Banner" width="100%" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Ujjwal;MERN+Stack+Developer;Machine+Learning+%26+Data+Science+Enthusiast;Samsung+R%26D+Research+Intern;Building+Scalable+AI+Systems+🚀" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UJJWAL2282&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+# 🚀 About Me
+
+```diff
++ MERN Stack Developer
++ Machine Learning & Data Science Enthusiast
++ Samsung R&D Research Intern (PRISM Program)
++ 3rd Year Computer Science Student
++ Passionate about AI, Research & Scalable Backend Systems
++ Preparing for Top Product-Based Companies
+```
+
+📧 Email: ujjwal2282@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/ujjwal2282/  
+💻 GitHub: https://github.com/UJJWAL2282  
+
+---
+
+# 🧠 Tech Stack
+
+## 🌐 MERN Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</p>
+
+## 🤖 Machine Learning & Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy" />
+</p>
+
+## ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,aws,firebase,postman" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UJJWAL2282&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UJJWAL2282&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UJJWAL2282&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UJJWAL2282&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="50%" />
 </p>
+
+---
+
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UJJWAL2282&layout=compact&theme=dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UJJWAL2282&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-### 🎯 Current Focus:
+# 🎯 Current Focus
 
-- Building scalable **Full Stack MERN applications**
-- Developing **ML models for real-time systems**
-- Working on **Research-driven projects at Samsung R&D**
-- Strengthening **Data Structures & Algorithms**
-
----
-
-### 🌟 Featured Projects:
-
-- **AI Health Monitoring Dashboard** – Real-time anomaly detection system with ML integration  
-- **MERN E-commerce Platform** – Scalable full-stack application  
-- **Network Traffic Analyzer (ML based)** – Predictive monitoring & alert system  
-- **Smart Placement Portal** – Automated student-job matching system  
+- 🔥 Building scalable MERN applications  
+- 🤖 Developing real-time ML systems  
+- 📊 Data-driven dashboards  
+- 🧠 Strengthening DSA & System Design  
+- 🔬 Research & innovation at Samsung R&D  
 
 ---
 
-### 🎓 Education:
+# 🌟 Featured Projects
 
-- 🎓 Undergraduate Student (3rd Year)
-- Focused on **Computer Science, AI & Research**
+### 🏥 AI Health Monitoring Dashboard
+Real-time anomaly detection with ML integration and interactive visualization.
+
+### 🛒 MERN E-Commerce Platform
+Authentication, REST APIs, payment integration, optimized backend.
+
+### 📡 Network Traffic Analyzer
+Machine Learning-based predictive monitoring & alert system.
+
+### 🎓 Smart Placement Portal
+Automated student-job matching platform using ranking algorithms.
 
 ---
 
-### 🏆 Achievements:
+# 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UJJWAL2282&theme=dark&row=1&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=UJJWAL2282&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-### 🤝 Let’s Collaborate:
+# 🤝 Connect With Me
 
-I’m open to collaborating on:
-- MERN Stack Projects
-- ML & Data Science Applications
-- Research & Innovation Projects
-- Open Source Contributions
+<p align="center">
+  <a href="https://www.linkedin.com/in/ujjwal2282/">
+    <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ujjwal2282@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/UJJWAL2282">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-⭐ From Ujjwal | Keep Building 🚀
+  <img src="./assets/profile-card.png" width="100%" />
 </p>
+
+---
+
+<h3 align="center">
+✨ Code • Build • Research • Innovate ✨
+</h3>
