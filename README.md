@@ -1,96 +1,97 @@
-<!-- AI Research Themed Header -->
+<!-- 🌈 Animated Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ujjwal%20|%20AI%20Research%20Engineer&fontSize=40&fontColor=00F5FF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,25:7873f5,50:00c6ff,75:43e97b,100:f9f871&height=220&section=header&text=Ujjwal%20|%20Web%20Developer%20%26%20ML%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Typing Animation -->
+<!-- ✨ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=24&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Research;Machine+Learning+Engineer;Deep+Learning+Explorer;Data+Science+Innovator;Samsung+PRISM+R%26D+Research+Intern" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Data+Science+Explorer;Samsung+PRISM+R%26D+Research+Intern;Building+Scalable+AI+Systems;Turning+Ideas+Into+Reality" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 👋 Hi, I'm Ujjwal
 
-I am deeply interested in building intelligent systems that learn, adapt, and scale.
+🚀 Passionate about building **modern web applications** and **intelligent machine learning systems**.  
+🧠 I love combining scalable backend systems with AI-driven intelligence.  
+📊 Exploring real-time ML, production systems, and data-driven decision models.
 
-My focus lies at the intersection of:
+---
 
-- 🔬 Artificial Intelligence Research  
-- 🤖 Machine Learning & Deep Learning  
-- 📊 Data Science & Predictive Modeling  
-- 🏗️ Scalable AI Systems  
-- 🧪 Research-driven experimentation  
-
-Currently working as:
+## 🏢 Experience
 
 ### 🔬 Samsung PRISM – R&D Research Intern
-- Developing research-oriented AI solutions  
-- Working on experimental model optimization  
-- Exploring real-world ML deployment pipelines  
+- Working on research-oriented technical systems  
+- Experimenting with intelligent models & optimization  
+- Building scalable and production-ready solutions  
 
 ---
 
-## 🔬 Research & Technical Stack
-
-### 🧠 AI / ML
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
-</p>
-
-### 📊 Data Science
-<p>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn" />
-</p>
-
-### 🖥 Systems & Engineering
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,cpp,java" />
-</p>
-
----
-
-## 📈 Research Metrics
+## 🌐 Web Development Stack
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=UJJWAL2282&show_icons=true&theme=midnight-purple&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=UJJWAL2282&theme=midnight-purple" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap" />
 </p>
 
 ---
 
-## 📊 Language Distribution
+## 🤖 Machine Learning & Data Science
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UJJWAL2282&layout=compact&theme=midnight-purple" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,matplotlib,seaborn" />
 </p>
 
 ---
 
-## 🧪 Research Interests
+## 💻 Programming & Tools
 
-- Neural Network Optimization  
-- Real-time Anomaly Detection  
-- Large Scale Model Deployment  
-- AI for System Intelligence  
-- Applied Machine Learning in Production  
-
----
-
-## 🌐 Connect
-
-<p>
-<a href="https://github.com/UJJWAL2282">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-<a href="mailto:email.ujjwal2282@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
-
----
-
-<!-- AI Lab Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=100&section=footer"/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,git,github,docker,linux,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=UJJWAL2282&show_icons=true&theme=radical&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=UJJWAL2282&theme=radical" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UJJWAL2282&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🔥 What I'm Focused On
+
+- 🌍 Building full stack scalable applications  
+- 🤖 Deploying ML models into production  
+- 📊 Creating intelligent dashboards  
+- ⚡ Real-time anomaly detection systems  
+- 🏗️ Backend architecture & system design  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/UJJWAL2282">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:email.ujjwal2282@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<!-- 🌊 Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9f871,25:43e97b,50:00c6ff,75:7873f5,100:ff6ec4&height=150&section=footer" />
 </p>
