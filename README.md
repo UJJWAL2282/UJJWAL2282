@@ -69,14 +69,7 @@
 ### 🏥 AI Health Monitoring Dashboard  
 Real-time anomaly detection with ML + Live visualization.
 
-### 🛒 MERN E-Commerce Platform  
-Authentication • Secure APIs • Payment Integration • Scalable Backend
 
-### 📡 Network Traffic Analyzer  
-ML-based predictive monitoring & anomaly alerting.
-
-### 🎓 Smart Placement Portal  
-Automated student-job matching using ranking algorithms.
 
 ---
 
