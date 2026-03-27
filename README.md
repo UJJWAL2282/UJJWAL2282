@@ -1,5 +1,5 @@
 # Hello 👋, I'm Ujjwal Kumar
-### Full Stack Developer and Data Science
+### Full Stack Developer and Machine Learning 
 
 Hi, I'm Ujjwal — a pre-final year undergraduate and a passionate software developer 🚀
 
