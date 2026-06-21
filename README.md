@@ -114,4 +114,4 @@
 
 <p align="center"><b>⭐ Building intelligent software that combines AI, Machine Learning and Scalable Systems.</b></p>
 
-> **Optional:** Add a GitHub Action for the snake contribution animation later (`Platane/snk`) for an even richer profile.
+> 
