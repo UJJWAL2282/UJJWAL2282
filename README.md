@@ -41,7 +41,7 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-<p><img src="https://skillicons.dev/icons?i=java,python,javascript,c"/></p>
+<p><img src="https://skillicons.dev/icons?i=java,python,javascript"/></p>
 
 ### Frontend
 <p><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite"/></p>
